@@ -31,7 +31,7 @@ disclaimer! : No Customization Needed to run "BootShort" Snippets.
 
 ## Known Issues
 
--   1.If Formatting do not Work just Install "Prettier" Extension to get formatted.
+-   If Formatting do not Work just Install "Prettier" Extension to get formatted.
 
 ## Release Notes
 
