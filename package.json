@@ -1,0 +1,38 @@
+{
+    "name": "bootshort",
+    "displayName": "BootShort",
+    "description": "bootstrap 5.1 snippets to complete your code @easeOfUse",
+    "version": "1.0.0",
+    "publisher": "Sam Fenilto",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Sam-Fenilto/BootShort.git"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/carousal.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
