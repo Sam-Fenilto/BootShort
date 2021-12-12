@@ -2,7 +2,7 @@
     "name": "bootshort",
     "displayName": "BootShort",
     "description": "bootstrap 5.1 snippets to complete your code @easeOfUse",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "Sam Fenilto J S",
     "author": {
         "name": "Sam Fenilto J S",
@@ -23,19 +23,27 @@
         "snippets": [
             {
                 "language": "html",
-                "path": "./snippets/snippets.code-snippets"
+                "path": "./snippets/starter.code-snippets"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/navbar.code-snippets"
             },
             {
                 "language": "html",
                 "path": "./snippets/carousal.code-snippets"
             },
             {
+                "language": "html",
+                "path": "./snippets/forms.code-snippets"
+            },
+            {
                 "language": "javascript",
-                "path": "./snippets/snippets.code-snippets"
+                "path": "./snippets/starter.code-snippets"
             },
             {
                 "language": "javascriptreact",
-                "path": "./snippets/snippets.code-snippets"
+                "path": "./snippets/starter.code-snippets"
             }
         ]
     }
