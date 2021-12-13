@@ -44,6 +44,10 @@
             {
                 "language": "javascriptreact",
                 "path": "./snippets/starter.code-snippets"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/twofield.code-snippets"
             }
         ]
     }
