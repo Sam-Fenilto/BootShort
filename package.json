@@ -8,6 +8,12 @@
         "name": "Sam Fenilto J S",
         "email": "samfenilto@gmail.com"
     },
+    "contributors": [
+        {
+            "name": "Abhishek H",
+            "email": "abisheikh03@gmail.com"
+        }
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/Sam-Fenilto/BootShort.git"
