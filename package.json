@@ -44,16 +44,32 @@
                 "path": "./snippets/forms.code-snippets"
             },
             {
+                "language": "html",
+                "path": "./snippets/components.code-snippets"
+            },
+
+
+
+            
+            {
                 "language": "javascript",
                 "path": "./snippets/starter.code-snippets"
             },
             {
-                "language": "javascriptreact",
-                "path": "./snippets/starter.code-snippets"
+                "language": "javascript",
+                "path": "./snippets/navbar.code-snippets"
             },
             {
-                "language": "html",
-                "path": "./snippets/twofield.code-snippets"
+                "language": "javascript",
+                "path": "./snippets/carousal.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/forms.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/components.code-snippets"
             }
         ]
     }
