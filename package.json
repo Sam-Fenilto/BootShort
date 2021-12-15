@@ -8,6 +8,12 @@
         "name": "Sam Fenilto J S",
         "email": "samfenilto@gmail.com"
     },
+    "contributors": [
+        {
+            "name": "Abhishek H",
+            "email": "abisheikh03@gmail.com"
+        }
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/Sam-Fenilto/BootShort.git"
@@ -38,16 +44,32 @@
                 "path": "./snippets/forms.code-snippets"
             },
             {
+                "language": "html",
+                "path": "./snippets/components.code-snippets"
+            },
+
+
+
+            
+            {
                 "language": "javascript",
                 "path": "./snippets/starter.code-snippets"
             },
             {
-                "language": "javascriptreact",
-                "path": "./snippets/starter.code-snippets"
+                "language": "javascript",
+                "path": "./snippets/navbar.code-snippets"
             },
             {
-                "language": "html",
-                "path": "./snippets/twofield.code-snippets"
+                "language": "javascript",
+                "path": "./snippets/carousal.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/forms.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/components.code-snippets"
             }
         ]
     }

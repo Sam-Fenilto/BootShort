@@ -72,4 +72,4 @@ Version 1.0.1 of "BootShort" with limited snippets.Will be Updated Shortly.
     forms Snippets has been added.
     some minor updation on certain Snippets.
 
-**Enjoy!**
+**Thank You For Using Enjoy!**
